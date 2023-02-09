@@ -1,3 +1,6 @@
 # TODO-Manager
-This is a Todo manager made using Springwork MVC. The project runs on Apache server tomcat 9.0 and . Springwork dispatcher servlet handles the request.
-The project by default adds the JavaJRE 1.5. please remove the JRE 1.5 and instead use amazon corretto jdk 17
+Developed a Todo Manager Utilizing Spring MVC, Operating on Apache Tomcat 9.0 and Leveraging Amazon Corretto JDK 17
+
+Implemented the use of Spring MVC, with the Spring Dispatcher Servlet efficiently managing requests. Upgraded the default Java JRE 1.5 to the more current and reliable Amazon Corretto JDK 17, enhancing the overall performance and security of the application.
+
+This project showcases a strong understanding of industry-standard technologies and a commitment to utilizing the most up-to-date and efficient tools available.
